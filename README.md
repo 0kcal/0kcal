@@ -76,13 +76,28 @@ By getting the flavor from the powder, the recipe can be used for hundreds of di
 
 ### Protein pudding
 
-<img src="images/pudding.jpg" float="right" width="400" />
+<table><tr><td>
 
 | **Macros**   | Per portion
 -------------- | -----------
 | Protein      | 18g
 | Carbs        | 6g
 | Fat          | 0.5g
+
+</td><td>
+
+| **Features**    | &nbsp;
+----------------- | -----------
+| Portable        | 🚫
+| Doesn't expire  | 🚫
+| Cook high amounts    | ✅
+| 0kcal           | 🚫
+| No fat          | ✅
+
+</td><td>
+
+  <img src="images/pudding.jpg" width="240" />
+</td></td></table>
 
 **Ingredients for 8 portions:**
 
@@ -108,13 +123,30 @@ Optional:
 
 ### Protein pancakes
 
-<img src="images/pancakes.jpg" float="right" width="400" />
+<table><tr><td>
 
 | **Macros**   | Per portion
 -------------- | -----------
 | Protein      | 49g
 | Carbs        | 13g
 | Fat          | 9g
+
+</td><td>
+
+| **Features**    | &nbsp;
+----------------- | -----------
+| Portable        | 🚫
+| Doesn't expire  | 🚫
+| Cook high amounts | 🚫
+| 0kcal           | 🚫
+| No fat          | 🚫
+
+</td><td>
+
+  <img src="images/pancakes.jpg" width="240" />
+  
+</td></tr></table>
+
 
 **Ingredients for 1 portion:**
 
