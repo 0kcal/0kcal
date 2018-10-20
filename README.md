@@ -124,6 +124,7 @@ Optional:
 **Notes:**
 
 - Non-portable as pudding melts once it leaves the fridge
+- Haven't tried yet, but if you skip the milk and replace Whey powder with just BCAA, this should be a 0kcal snack
 
 ### Protein pancakes
 
@@ -163,10 +164,12 @@ Optional:
 
 TODO: try to make myself
 
-**Notes**:
-
-- Non portable 
-
 ### Snacks
 
 TODO: This is something I'm looking into right now. I want to make 0kcal brownies and cookies. I'm trying to find a way to simulate the crunchiness of cookies and brownies.
+
+# Next steps:
+
+- Try to make a 0kcal pudding by skipping the milk and replacing Whey with BCAA
+- Try to make a close-to-zero cookie or brownie
+- Make use of egg-whites for consistency, by putting it into the oven for a long time
