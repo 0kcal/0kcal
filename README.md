@@ -1,5 +1,9 @@
 # 0kcal food
 
+## Project status:
+
+This is a super early Work in Progress, I'm just getting started experimenting with 0 calorie food. Right now, there are only 2 recipes available, both of which are not actually 0kcal. Over the next few weeks I'll add more information up here. Long term, this could be a beautiful, open source website with a list of available recipes.
+
 ## Background
 
 ### 0kcal products
@@ -26,9 +30,9 @@ resulting in 2,485kcal per day.
 
 ### Cravings
 
-People have habits, and people crave certain food and soft-drinks. The drinks situation is basically soved, thanks to flavored sparkling water (e.g. La Croix), in combination with sugarfree Red Bull, Coke Zero and similar. 
+People have habits, and people crave certain food and soft-drinks. The drinks situation is basically solved, thanks to flavored sparkling water (e.g. La Croix), in combination with sugarfree Red Bull, Coke Zero and similar. 
 
-Meanwhile for food, there are only a few options available. This project aims to cover the regular fitness nutritient goals described above, there are other diets (e.g. Keto) that work differently.
+Meanwhile for food, there are only a few options available. This project aims to cover the regular fitness nutrition goals described above, there are other diets (e.g. Keto) that work differently.
 
 Since the regular fitness diet is based around a low fat intake, you have to optimize for that.
 
@@ -55,13 +59,13 @@ Since the regular fitness diet is based around a low fat intake, you have to opt
 
 ## Proposal
 
-Similar to 0kcal drinks, it must be possible to make 0kcal food, that statisfies the cravings and habits people have built up over time. 
+Similar to 0kcal drinks, it must be possible to make 0kcal food, that satisfies the cravings and habits people have built up over time. 
 
 The goal of this project is to come up with a recipe that fullfills the following requirements:
 
 - Close to 0kcal snack
   - Alternatively have a small amount of carbs/protein, but no fat
-- Statisfies the craving for something sweet (a protein shake doesn't)
+- Satisfies the craving for something sweet (a protein shake doesn't)
 - Portable: you should be able to bring it on a trip
 - Doesn't expire for a month
 - Make it in high amounts with little effort
